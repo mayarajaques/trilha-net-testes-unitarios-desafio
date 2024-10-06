@@ -1,3 +1,6 @@
+**Fork efetuado para resolver os desafios propostos abaixo do curso de Desenvolvimento C#, neste projeto foi implementado testes unitários para as classes.**
+
+
 # DIO - Trilha .NET - Testes Unitários com C#
 www.dio.me
 
